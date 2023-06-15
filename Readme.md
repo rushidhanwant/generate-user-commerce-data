@@ -1,12 +1,11 @@
 # Generate Users Ecommerce data
 
-***
 
-## Install Dependencies
+### Install Dependencies
 
 - pip install -r requirement.txt
 
-## Run Main.py
+### Run Main.py
 
 - python main.py
 
